@@ -75,8 +75,11 @@ In addition, understanding the CDPH's basis of operations will also help in brid
 ## Team
 
 Jeffrey Prasetio | https://www.linkedin.com/in/jeffreyprasetio/
+
 Raymond Onn | https://www.linkedin.com/in/raymondonn/
+
 Samuel Ng | https://www.linkedin.com/in/samuelngme/
+
 Shi Min Lee | https://www.linkedin.com/in/shi-minlee/
 
 ## References
