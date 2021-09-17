@@ -1,5 +1,7 @@
 # Project 4 - West Nile Virus Prediction (Kaggle Competition)
 
+This project was the final group project (part of a [Kaggle competition](https://www.kaggle.com/c/predict-west-nile-virus/overview)) for the [Data Science Immersive course at General Assembly](https://generalassemb.ly/education/data-science-immersive/singapore).
+
 ## Executive Summary
 
 The West Nile Virus is most commonly spread to humans through infected mosquitos. Around 20% of people who become infected with the virus develop symptoms ranging from a persistent fever, to serious neurological illnesses that can result in death.
@@ -15,7 +17,7 @@ Recognising that the West Nile Virus could develop into an endemic, we aim to im
 
 Capitalising on data on past weather conditions and locations where West Nile Virus were found, we look to develop a machine learning model to predict the presence of the West Nile Virus at a particular location facing specific weather conditions. This prediction tool will be useful as it allows for targeted spraying of specific neighbourhoods facing higher threats of the West Nile Virus. We hope to aid Chicago in achieving cost-savings through efficient resource-management towards preventing the transmission of the West Nile Virus.
 
-## Datasets
+## Data Dictionary
 
 The datasets obtained from [Kaggle](https://www.kaggle.com/c/predict-west-nile-virus/data) are are as follows. 
 
@@ -69,6 +71,13 @@ With the model and the cost-benefit analysis, we concluded that we should be abl
 The cost analysis was over-simplified and not performed on a macro level. For example, the cost calculation on spraying did not account for logistics / manhour costs. Some traps were within a 700ft radius between one another; the spraying of traps overlaps and the actual required insecticide is less. In addition, the cost calculation for hospitalization fees was also generalized. To perform a proper cost analysis, we would need to look at the most recent data for an accurate assessment of the current status. Only then can a fair comparison be made.
 
 In addition, understanding the CDPH's basis of operations will also help in bridging the current situation towards their desired KPIs. They mentioned about other efforts including larviciding catch basins, which involves dropping tablets in storm drains along the public way that slowly dissolve over a five-month period to prevent mosquito larvae from hatching, and eliminating standing water by ensuring that swimming pools and construction sites are regularly maintained. These additional efforts beyond spraying and trapping could be explored, and data can be collected on those variables to build a more robust model.
+
+## Team
+
+Jeffrey Prasetio | https://www.linkedin.com/in/jeffreyprasetio/
+Raymond Onn | https://www.linkedin.com/in/raymondonn/
+Samuel Ng | https://www.linkedin.com/in/samuelngme/
+Shi Min Lee | https://www.linkedin.com/in/shi-minlee/
 
 ## References
 
