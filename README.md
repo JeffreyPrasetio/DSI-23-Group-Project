@@ -1,4 +1,4 @@
-# Project 4 - West Nile Virus Prediction (Kaggle Competition)
+# West Nile Virus Prediction (Kaggle Competition)
 
 This project was my final group project (part of a [Kaggle competition](https://www.kaggle.com/c/predict-west-nile-virus/overview)) for the [Data Science Immersive course at General Assembly](https://generalassemb.ly/education/data-science-immersive/singapore).
 
