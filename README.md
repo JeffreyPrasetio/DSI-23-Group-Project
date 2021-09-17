@@ -23,10 +23,10 @@ The datasets obtained from [Kaggle](https://www.kaggle.com/c/predict-west-nile-v
 
 |Data|Description|
 |:---:|:---|
-|[`train.csv`](../assets/train.csv)|There are 10,505 raw observations. Each observation contains location details on the traps, the number of mosquitoes collected and an indication of whether the West Nile Virus is present. The data is for traps tested in years 2007, 2009, 2011 and 2013.| 
-|[`test.csv`](../assets/test.csv)|There are 116,293 raw observations. Each observation contains location details on the traps, the number of mosquitoes collected and an indication of whether the West Nile Virus is present. The data is for traps tested in years 2008, 2010, 2012, and 2014.| 
-|[`weather.csv`](../assets/weather.csv)|Weather data collected from 2 weather stations between 1 May and 31 Oct from 2007 to 2014. For further descriptions, see [pdf](../assets/noaa_weather_qclcd_documentation.pdf).|
-|[`spray.csv`](../assets/spray.csv)|Data contains the date, time and location of spray in 2011 and 2013. This dataset will only be used for the benefit and costs analysis of pesticide use (see Book 5) and will not be used to build the prediction model.|
+|[`train.csv`](/assets/train.csv)|There are 10,505 raw observations. Each observation contains location details on the traps, the number of mosquitoes collected and an indication of whether the West Nile Virus is present. The data is for traps tested in years 2007, 2009, 2011 and 2013.| 
+|[`test.csv`](/assets/test.csv)|There are 116,293 raw observations. Each observation contains location details on the traps, the number of mosquitoes collected and an indication of whether the West Nile Virus is present. The data is for traps tested in years 2008, 2010, 2012, and 2014.| 
+|[`weather.csv`](/assets/weather.csv)|Weather data collected from 2 weather stations between 1 May and 31 Oct from 2007 to 2014. For further descriptions, see [pdf](/assets/noaa_weather_qclcd_documentation.pdf).|
+|[`spray.csv`](/assets/spray.csv)|Data contains the date, time and location of spray in 2011 and 2013. This dataset will only be used for the benefit and costs analysis of pesticide use (see Book 5) and will not be used to build the prediction model.|
 
 The data dictionary of the newly engineered features is found below. 
 
