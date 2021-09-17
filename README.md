@@ -38,7 +38,7 @@ The data dictionary of the newly engineered features is found below.
 |Tmax_L1|*float*|Average maximum temperature of the weather station closest to the trap in the previous month.| 
 |SeaLevel_L0|*float*|Average atmospheric pressure of the weather station closest to the trap within the same month.| 
 |SeaLevel_L1|*float*|Average atmospheric pressure of the weather station closest to the trap in the previous month.| 
-|RelativeHumidity|*float*|Relative humidity computed based on dewpoint and average temperature using the formula given at [link](https://www.calcunation.com/calculator/humidity-calculator.php).| 
+|RelativeHumidity|*float*|Relative humidity computed based on dewpoint and average temperature using the formula found [here](https://www.calcunation.com/calculator/humidity-calculator.php).| 
 |RelativeHumidity_L0|*float*|Average relative humidity of the weather station closest to the trap within the same month.| 
 |RelativeHumidity_L1|*float*|Average relative humidity of the weather station closest to the trap in the previous month.| 
 |PrecipTotal_L0|*float*|Average total precipitation reading of the weather station closest to the trap within the same month.| 
